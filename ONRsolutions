@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="en""es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ONR SOLUTIONS</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+  <header class="hero">
+    <div class="container">
+
+      <h1>ONR SOLUTIONS</h1>
+      <h3>Fix Your Credit / Repara tu Crédito<h /3>
+          <p>
+            Better Your Life and Credit.<br />
+            Mejora tu Vida y Credito.
+          </p>
+          <a href="#form" class="cta-button">Sign Up for a Free Consultation / Agenda tu Cita para una Consulta Gratis</a>
+    </div>
+  </header>
+
+  <section class="features">
+    <div class="container">
+      <h2>Our Services / Nuestros Servicios</h2>
+      <div class="feature-grid">
+        <div class="feature">
+          <h3>✅ Credit Report Analysis / Análisis del Reporte de Crédito</h3>
+          <p>We review your credit for errors.<br />Revisamos tu crédito para detectar errores.</p>
+        </div>
+        <div class="feature">
+          <h3>✅ Dispute Inaccuracies / Disputa de Errores</h3>
+          <p>We contact credit bureaus to dispute negative items.<br />Contactamos a las agencias de crédito para disputar elementos negativos.</p>
+        </div>
+        <div class="feature">
+          <h3>✅ Credit Monitoring / Monitoreo de Crédito</h3>
+          <p>Track your progress with ongoing monitoring.<br />Sigue tu progreso con monitoreo continuo.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="testimonials">
+    <div class="container">
+      <h2>Client Testimonials / Testimonios</h2>
+
+      <div class="testimonial-slider">
+        <div class="testimonial active">
+          <p>"I raised my score by 120 points in 4 months!"<br />
+            "¡Aumenté mi puntaje en 120 puntos en 4 meses!"</p>
+          <cite>– Jessica M., Bronx NY</cite>
+        </div>
+
+        <div class="testimonial">
+          <p>"They helped me qualify for a new home loan."<br />
+            "Me ayudaron a calificar para un préstamo de casa."</p>
+          <cite>– Carlos R., New York City</cite>
+        </div>
+
+        <div class="testimonial">
+          <p>"Professional, fast, and transparent service."<br />
+            "Servicio profesional, rápido y transparente."</p>
+          <cite>– Ana L., New York</cite>
+        </div>
+      </div>
+    </div>
+  </section>
+  </section>
+
+  <section class="form-section" id="form">
+    <div class="container">
+      <h2>Get Your Free Credit Evaluation / Obtén Tu Evaluación de Crédito Gratis</h2>
+      <a href="https://calendly.com/onrsolution-info/30min?month=2025-07&fbclid=PAQ0xDSwLlRFVleHRuA2FlbQIxMQABp-Y653TsaLb8fIUh_KNMxihDg1PSNTt1FLcJyOl-_UcFdz5ongm2JaH9-IBG_aem_4WMrpy3m-7IRxkxuviirDw" class="cta-button">
+        <li>Book your Free Consultation Here | Agenda tu Consulta Gratis Aqui</li>
+      </a>
+      <a href="https://member.identityiq.com/sc-securepreferred.aspx?offercode=431294HT&fbclid=PAQ0xDSwLlUIVleHRuA2FlbQIxMAABp0MiA6kK3ANejW4rMopwMpwAO4AZiVoaw7vXlvnBsZmTTUoyeGYC2ii5uWwC_aem_dg7OVA0Sb4S4ckp8UavBmA" class="cta-button">
+        <li>Get your Credit Report | Obten Tu Reporte de Credito</li>
+      </a>
+      <p class="disclaimer">
+        No credit card required. 100% confidential.<br />
+        No se requiere tarjeta de crédito. 100% confidencial.
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 ONR SOLUTIONS LLC. All rights reserved. / Todos los derechos reservados.</p>
+      <p>Privacy Policy | Política de Privacidad</p>
+    </div>
+  </footer>
+
+</body>
+
+</html>
